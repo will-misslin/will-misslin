@@ -16,7 +16,9 @@ Data Engineer
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
-[![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=will-misslin?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=will-misslin&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=will-misslin)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <h1 align='center'><i>Stay awesome!</i></h1>
