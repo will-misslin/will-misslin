@@ -1,7 +1,6 @@
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
-I'm Will.
-Data Engineer
+I'm Will.<br>Data Engineer.
 </p>
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
